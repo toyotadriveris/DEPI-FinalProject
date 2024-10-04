@@ -23,6 +23,11 @@
             "assets": [
               {
                 "glob": "**/*",
+                "input": "src/shared/",
+                "output": "/shared/"
+              },
+              {
+                "glob": "**/*",
                 "input": "public"
               }
             ],

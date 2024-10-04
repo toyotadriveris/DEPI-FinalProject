@@ -59,6 +59,7 @@ main {
         justify-content: center; 
         position: relative;
         height: 100%;
+        transition: all 100ms ease;
         h3 {
             font-size: clamp(1.5rem, 1rem + 3.6vw, 4rem);
         }
